@@ -100,4 +100,4 @@ For modem porting, we rarely change RILJ. But notice that, we may need to change
 <img src="./RILJ.png"/>
 
 # **Result**
-<img src="./modem.png"/>
+<img src="./modem.PNG"/>
